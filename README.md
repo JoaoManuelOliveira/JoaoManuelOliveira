@@ -59,13 +59,4 @@ Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usu
 - 💼 LinkedIn: linkedin.com/in/oliveirajoaodev
 ---
 
-##Certificados
-
-![1750210704160](https://github.com/user-attachments/assets/ca5a8d27-26f1-44be-b349-c802e71422a6)
-
-
-
-
-
----
  Obrigado por visitar meu perfil! Se quiser colaborar ou tiver uma oportunidade, será um prazer conversar!
