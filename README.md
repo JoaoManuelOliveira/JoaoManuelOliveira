@@ -35,6 +35,7 @@ Sempre busco escrever código limpo, funcional e de fácil manutenção. Gosto d
 ## 🔗 Projeto em Destaque
 
 ### [🔐 Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)
+### 🔗[PostIt App](https://joaomanueloliveira.github.io/postit/)
 
 Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usuários, cadastro, tratamento de sessões, e integração com banco de dados **MySQL**.
 
