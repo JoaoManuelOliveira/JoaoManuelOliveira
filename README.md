@@ -20,25 +20,27 @@ Sempre busco escrever código limpo, funcional e de fácil manutenção. Gosto d
 
 ## 🛠️ Tecnologias e Ferramentas
 
-| Tecnologia     | Nível / Uso |
-|----------------|-------------|
-| **Java (JSP/Servlets)** | Backend de aplicações web, autenticação, lógica de negócios |
-| **MySQL**       | Criação, modelagem, queries, joins, procedures, views |
-| **HTML**        | Estrutura de páginas web |
-| **CSS**         | Estilização básica e responsiva |
-| **JavaScript (básico)** | Validação simples no frontend |
-| **Git/GitHub**  | Versionamento e colaboração |
-| **Microsoft Entra ID (conceitos)** | Noções de autenticação, identidade, permissões |
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50px" title="Swift"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap"/>
+</div>
 
 ---
 
-## 🔗 Projeto em Destaque
+## 🔗 Projetos em Destaque
 
-### [🔐 Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)
-### 🔗[PostIt App](https://joaomanueloliveira.github.io/postit/)
-
+### 🔐 [Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)  
 Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usuários, cadastro, tratamento de sessões, e integração com banco de dados **MySQL**.
 
+### 🗒️ [PostIt App](https://joaomanueloliveira.github.io/postit/)  
+Aplicação web com interface moderna para criar, listar e remover post-its com dados armazenados localmente no navegador. Feita com **HTML5, CSS3 e JavaScript**.
 
 ---
 
@@ -47,17 +49,18 @@ Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usu
 - Conseguir uma oportunidade de **estágio** ou vaga de nível júnior  
 - Continuar me aprofundando em **Java backend** e **bancos de dados**  
 - Aprender sobre frameworks modernos (Spring, React, etc.)  
-- Contribuir com projetos reais e colaborar com outros desenvolvedores
-- Aprender mais sobre Inteligência Artificial (IA)
-- Iniciar e evoluir no aprendizado de Python
-- Trabalhar com criação e desenvolvimento de jogos
-  
+- Contribuir com projetos reais e colaborar com outros desenvolvedores  
+- Aprender mais sobre **Inteligência Artificial (IA)**  
+- Iniciar e evoluir no aprendizado de **Python**  
+- Trabalhar com **criação e desenvolvimento de jogos**
+
 ---
 
 ## 📫 Contato
 
-- ✉️ Email: joaomanueloliveira013.work@gmail.com
-- 💼 LinkedIn: linkedin.com/in/oliveirajoaodev
+- ✉️ Email: [joaomanueloliveira013.work@gmail.com](mailto:joaomanueloliveira013.work@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/oliveirajoaodev](https://www.linkedin.com/in/oliveirajoaodev)
+
 ---
 
- Obrigado por visitar meu perfil! Se quiser colaborar ou tiver uma oportunidade, será um prazer conversar!
+**Obrigado por visitar meu perfil! Se quiser colaborar ou tiver uma oportunidade, será um prazer conversar!**
