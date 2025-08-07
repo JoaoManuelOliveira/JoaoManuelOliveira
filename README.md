@@ -1,5 +1,7 @@
 # 👨‍💻 João Manuel Oliveira
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=radical)
+
 🎓 Estudante de **Informática para Desenvolvimento Web**
 
 📍 Desenvolvedor focado em soluções funcionais, seguras e bem estruturadas
@@ -23,9 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50px" title="Swift"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap"/>
 </div>
-
----
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=radical)
 
 ---
 
@@ -67,7 +66,7 @@ Aplicação web com interface moderna para criar, listar e remover post-its com 
 
 ## 📫 Contato
 
-- ✉️ Email: [joaomanueloliveira013.work@gmail.com](mailto:joaomanueloliveira013.work@gmail.com)
+- ✉️ Email: [joaomanueloliveira013.work@gmail.com](mailto:joaomanueloliveira013.work@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/oliveirajoaodev](https://www.linkedin.com/in/oliveirajoaodev)
 
 ---
