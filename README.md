@@ -1,6 +1,6 @@
 # 👨‍💻 João Manuel Oliveira
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=dark-green)
 
 🎓 Estudante de **Informática para Desenvolvimento Web**
 
