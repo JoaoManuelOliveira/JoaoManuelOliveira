@@ -25,6 +25,9 @@
 </div>
 
 ---
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=radical)
+
+---
 
 ## 🧠 Sobre mim
 
