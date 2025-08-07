@@ -10,20 +10,6 @@
 
 ---
 
-## 🧠 Sobre mim
-
-Sou apaixonado por desenvolvimento e tecnologia. Tenho experiência prática com Java, PHP, HTML5, CSS3, JavaScript, MySQL e PostgreSQL, além de já ter iniciado meus estudos em Swift e Bootstrap para desenvolvimento de interfaces modernas e responsivas.
-
-Atuo principalmente no desenvolvimento web, com a criação de sistemas de login/cadastro, interfaces funcionais, e manipulação segura de dados em bancos de dados relacionais. Trabalho com views, procedures, e procuro sempre aplicar boas práticas de programação e segurança.
-
-Também tenho estudado conceitos fundamentais de autenticação, identidade e permissões, incluindo o uso do Microsoft Entra ID (antigo Azure AD). Essas experiências me ajudam a criar sistemas mais robustos e alinhados com os padrões atuais.
-
-Sou um desenvolvedor curioso, que está em constante evolução, sempre aprendendo novas linguagens, ferramentas e tecnologias. Estou frequentemente envolvido em projetos práticos para consolidar meus conhecimentos e melhorar minha capacidade de resolver problemas reais.
-
-Tenho o sonho de trabalhar com desenvolvimento de jogos e Inteligência Artificial (IA), áreas pelas quais sou profundamente fascinado. Estou dando os primeiros passos nesse caminho e me preparando para criar experiências inovadoras, inteligentes e interativas.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -37,6 +23,20 @@ Tenho o sonho de trabalhar com desenvolvimento de jogos e Inteligência Artifici
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50px" title="Swift"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap"/>
 </div>
+
+---
+
+## 🧠 Sobre mim
+
+Sou apaixonado por desenvolvimento e tecnologia. Tenho experiência prática com Java, PHP, HTML5, CSS3, JavaScript, MySQL e PostgreSQL, além de já ter iniciado meus estudos em Swift e Bootstrap para desenvolvimento de interfaces modernas e responsivas.
+
+Atuo principalmente no desenvolvimento web, com a criação de sistemas de login/cadastro, interfaces funcionais, e manipulação segura de dados em bancos de dados relacionais. Trabalho com views, procedures, e procuro sempre aplicar boas práticas de programação e segurança.
+
+Também tenho estudado conceitos fundamentais de autenticação, identidade e permissões, incluindo o uso do Microsoft Entra ID (antigo Azure AD). Essas experiências me ajudam a criar sistemas mais robustos e alinhados com os padrões atuais.
+
+Sou um desenvolvedor curioso, que está em constante evolução, sempre aprendendo novas linguagens, ferramentas e tecnologias. Estou frequentemente envolvido em projetos práticos para consolidar meus conhecimentos e melhorar minha capacidade de resolver problemas reais.
+
+Tenho o sonho de trabalhar com desenvolvimento de jogos e Inteligência Artificial (IA), áreas pelas quais sou profundamente fascinado. Estou dando os primeiros passos nesse caminho e me preparando para criar experiências inovadoras, inteligentes e interativas.
 
 ---
 
