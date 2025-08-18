@@ -50,6 +50,9 @@ Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usu
 ### 🗒️ [PostIt App](https://joaomanueloliveira.github.io/postit/)  
 Aplicação web com interface moderna para criar, listar e remover post-its com dados armazenados localmente no navegador. Feita com **HTML5, CSS3 e JavaScript**.
 
+### 🗒️ [Lista de Compras](https://joaomanueloliveira.infinityfreeapp.com)  
+Sistema simples e funcional desenvolvido em PHP, com interface moderna e responsiva em HTML5 e CSS3.
+Permite adicionar e remover produtos dinamicamente, exibindo em tempo real o valor total da compra.
 ---
 
 ## 🎯 Objetivos
