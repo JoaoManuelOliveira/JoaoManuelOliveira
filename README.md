@@ -30,13 +30,15 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por desenvolvimento e tecnologia. Tenho experiência prática com Java, PHP, HTML5, CSS3, JavaScript, MySQL e PostgreSQL, além de já ter iniciado meus estudos em Swift e Bootstrap para desenvolvimento de interfaces modernas e responsivas.
+Sou apaixonado por desenvolvimento e tecnologia. Tenho experiência prática com Java, PHP, HTML5, CSS3, JavaScript, MySQL e PostgreSQL, além de já ter iniciado meus estudos em Swift e Bootstrap para o desenvolvimento de interfaces modernas e responsivas.
 
-Atuo principalmente no desenvolvimento web, com a criação de sistemas de login/cadastro, interfaces funcionais, e manipulação segura de dados em bancos de dados relacionais. Trabalho com views, procedures, e procuro sempre aplicar boas práticas de programação e segurança.
+Atuo principalmente no desenvolvimento web, com a criação de sistemas de login/cadastro, interfaces funcionais e manipulação segura de dados em bancos relacionais. Tenho prática com views, procedures e busco sempre aplicar boas práticas de programação e segurança.
 
-Também tenho estudado conceitos fundamentais de autenticação, identidade e permissões, incluindo o uso do Microsoft Entra ID (antigo Azure AD). Essas experiências me ajudam a criar sistemas mais robustos e alinhados com os padrões atuais.
+Também venho estudando conceitos fundamentais de autenticação, identidade e permissões, incluindo o uso do Microsoft Entra ID (antigo Azure AD), o que me ajuda a criar sistemas mais robustos e alinhados com os padrões atuais.
 
-Sou um desenvolvedor curioso, que está em constante evolução, sempre aprendendo novas linguagens, ferramentas e tecnologias. Estou frequentemente envolvido em projetos práticos para consolidar meus conhecimentos e melhorar minha capacidade de resolver problemas reais.
+Paralelamente, estou aprofundando meus conhecimentos em hacking e pentest, com o objetivo de compreender vulnerabilidades, fortalecer sistemas e aplicar técnicas de segurança ofensiva e defensiva.
+
+Sou um desenvolvedor curioso e em constante evolução, sempre aprendendo novas linguagens, ferramentas e tecnologias. Além disso, estou frequentemente praticando resolução de problemas de lógica, exercícios de programação e desafios, o que me ajuda a consolidar meu raciocínio e melhorar minha capacidade de encontrar soluções criativas e eficientes.
 
 Tenho o sonho de trabalhar com desenvolvimento de jogos e Inteligência Artificial (IA), áreas pelas quais sou profundamente fascinado. Estou dando os primeiros passos nesse caminho e me preparando para criar experiências inovadoras, inteligentes e interativas.
 
