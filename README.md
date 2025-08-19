@@ -2,7 +2,7 @@
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=vision-friendly-dark)
 
-🎓 Estudante de **Informática para Desenvolvimento Web** pelo **Insstituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**
+🎓 Estudante de **Informática para Desenvolvimento Web** pelo **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**
 
 📍 Desenvolvedor focado em soluções funcionais, seguras e bem estruturadas
 
