@@ -55,6 +55,9 @@ Aplicação web com interface moderna para criar, listar e remover post-its com 
 ### 🗒️ [Lista de Compras](https://joaomanueloliveira.infinityfreeapp.com)  
 Sistema simples e funcional desenvolvido em **PHP**, com interface moderna e responsiva em **HTML5** e **CSS3**. Permite adicionar e remover produtos dinamicamente, exibindo em tempo real o valor total da compra.
 
+### 🗒️ [Jogo da Velha (tic-tac-toe)](https://joaomanueloliveira.github.io/jogoDaVelha)  
+Versão estilizada do clássico jogo da velha, feita com **HTML5, CSS3 (dark neon)** e **JavaScript**. Conta com placar de vitórias local, detecção automática de vitória/empate e layout responsivo.
+
 ---
 
 ## 🎯 Objetivos
