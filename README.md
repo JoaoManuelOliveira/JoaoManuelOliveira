@@ -76,13 +76,6 @@ Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design m
 ---
 
 ## 📫 Contato
-
-- ✉️ Email: [joaomanueloliveira013.work@gmail.com](mailto:joaomanueloliveira013.work@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/oliveirajoaodev](https://www.linkedin.com/in/oliveirajoaodev)
-
----
-
-## 📫 Contato
 <div>
   <a href="https://www.instagram.com/_zshadowz" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -90,7 +83,7 @@ Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design m
   <a href="https://www.linkedin.com/in/oliveirajoaodev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="joao manuel:joaomanueloliveira013.work@gmail.com">
+  <a href="mailto:joaomanueloliveira013.work@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
