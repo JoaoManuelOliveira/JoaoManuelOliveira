@@ -82,4 +82,19 @@ Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design m
 
 ---
 
+## 📫 Contato
+<div>
+  <a href="https://www.instagram.com/_zshadowz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oliveirajoaodev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="joao manuel:joaomanueloliveira013.work@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
 **Obrigado por visitar meu perfil! Se quiser colaborar ou tiver uma oportunidade, será um prazer conversar!**
