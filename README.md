@@ -58,7 +58,7 @@ Versão estilizada do clássico jogo da velha, feita com **HTML5, CSS3 (dark neo
 ### 🔐 [Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)  
 Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usuários, cadastro, tratamento de sessões, e integração com banco de dados **MySQL**.
 
-### 🚚 [Site para empresa Lileot Transporte](https://lileottransorte.github.io/Lileot)  
+### 🚗 [Site para empresa Lileot Transporte](https://lileottransorte.github.io/Lileot)  
 Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design moderno e responsivo, apresentando informações sobre a empresa e seus serviços de transporte.
 
 ---
