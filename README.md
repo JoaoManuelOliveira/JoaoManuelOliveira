@@ -46,9 +46,6 @@ Tenho o sonho de trabalhar com desenvolvimento de jogos e Inteligência Artifici
 
 ## 🔗 Projetos em Destaque
 
-### 🔐 [Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)  
-Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usuários, cadastro, tratamento de sessões, e integração com banco de dados **MySQL**.
-
 ### 🗒️ [PostIt App](https://joaomanueloliveira.github.io/postit/)  
 Aplicação web com interface moderna para criar, listar e remover post-its com dados armazenados localmente no navegador. Feita com **HTML5, CSS3 e JavaScript**.
 
@@ -57,6 +54,9 @@ Sistema simples e funcional desenvolvido em **PHP**, com interface moderna e res
 
 ### 🗒️ [Jogo da Velha (tic-tac-toe)](https://joaomanueloliveira.github.io/jogoDaVelha)  
 Versão estilizada do clássico jogo da velha, feita com **HTML5, CSS3 (dark neon)** e **JavaScript**. Conta com placar de vitórias local, detecção automática de vitória/empate e layout responsivo.
+
+### 🔐 [Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)  
+Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usuários, cadastro, tratamento de sessões, e integração com banco de dados **MySQL**.
 
 ---
 
