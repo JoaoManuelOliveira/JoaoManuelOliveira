@@ -1,6 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/JoaoManuelOliveira/JoaoManuelOliveira/output/github-contribution-grid-snake.svg)
-
-
 # 👨‍💻 João Manuel Oliveira
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=vision-friendly-dark)
@@ -93,4 +90,11 @@ Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design m
 
 ---
 
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/JoaoManuelOliveira/JoaoManuelOliveira/output/github-contribution-grid-snake.svg)
+
+---
+
 **Obrigado por visitar meu perfil! Se quiser colaborar ou tiver uma oportunidade, será um prazer conversar!**
+
