@@ -1,3 +1,6 @@
+![Snake animation](https://raw.githubusercontent.com/<seu-usuario>/<JoaoManuelOliveira>/output/github-contribution-grid-snake.svg)
+
+
 # 👨‍💻 João Manuel Oliveira
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=vision-friendly-dark)
