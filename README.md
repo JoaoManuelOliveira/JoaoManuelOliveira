@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/<JoaoManuelOliveira>/<JoaoManuelOliveira>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JoaoManuelOliveira/JoaoManuelOliveira/output/github-contribution-grid-snake.svg)
 
 
 # 👨‍💻 João Manuel Oliveira
