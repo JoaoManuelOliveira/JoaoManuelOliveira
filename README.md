@@ -7,7 +7,7 @@
 
 📍 Desenvolvedor focado em soluções funcionais, seguras e bem estruturadas  
 🧠 Apaixonado por resolução de problemas  
-🚀 Em busca de oportunidades de estágio ou projetos colaborativos  
+🚀 Em busca de oportunidades de estágio e projetos colaborativos  
 
 ---
 
