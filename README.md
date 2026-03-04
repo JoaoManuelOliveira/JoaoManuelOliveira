@@ -1,6 +1,6 @@
 # 👨‍💻 João Manuel Oliveira
 
-## ☕💻 Java na tela, café na mesa.
+## 💻 Java na tela, ☕ café na mesa.
 
 🎓 Estudante de **Informática para Desenvolvimento Web** pelo  
 **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**
