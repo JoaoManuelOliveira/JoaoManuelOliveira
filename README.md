@@ -1,29 +1,30 @@
 # 👨‍💻 João Manuel Oliveira
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManuelOliveira&layout=compact&theme=vision-friendly-dark)
+## ☕💻 Java na tela, café na mesa.
 
-🎓 Estudante de **Informática para Desenvolvimento Web** pelo **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**
+🎓 Estudante de **Informática para Desenvolvimento Web** pelo  
+**Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**
 
-📍 Desenvolvedor focado em soluções funcionais, seguras e bem estruturadas
-
-🧠 Resolução de Problemas
-
-🚀 Em busca de oportunidades de estágio ou projetos colaborativos
+📍 Desenvolvedor focado em soluções funcionais, seguras e bem estruturadas  
+🧠 Apaixonado por resolução de problemas  
+🚀 Em busca de oportunidades de estágio ou projetos colaborativos  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50px" title="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60px" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60px" title="Kotlin"/>
+
 </div>
 
 ---
