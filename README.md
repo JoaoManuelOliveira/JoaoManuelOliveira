@@ -62,7 +62,7 @@ Sistema simples e funcional desenvolvido em **PHP**, com interface moderna e res
 Versão estilizada do clássico jogo da velha, feita com **HTML5, CSS3 (dark neon)** e **JavaScript**. Conta com placar de vitórias local, detecção automática de vitória/empate e layout responsivo.
 
 ### 🪚 [ML Marcenaria e Montagens](https://umbraapplications.github.io/ML-Marcenaria-e-Montagens/)
-Website institucional desenvolvido em parceria com a [Umbra Applications](https://github.com/UmbraApplications) para uma empresa de marcenaria, com foco em apresentação de serviços, responsividade e experiência visual moderna. Participei do projeto desde o levantamento de requisitos até toda a etapa de desenvolvimento, utilizando **HTML5, CSS3 e JavaScript**.
+Website institucional desenvolvido pela minha empresa, [Umbra Applications](https://github.com/UmbraApplications), para uma empresa de marcenaria, com foco em apresentação de serviços, responsividade e experiência visual moderna. Realizei no projeto desde o levantamento de requisitos até toda a etapa de desenvolvimento, utilizando **HTML5, CSS3 e JavaScript**.
 
 ### 🚗 [Site para empresa Lileot Transporte](https://lileottransorte.github.io/Lileot)  
 Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design moderno e responsivo, apresentando informações sobre a empresa e seus serviços de transporte.
