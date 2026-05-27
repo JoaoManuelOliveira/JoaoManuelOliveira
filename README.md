@@ -61,8 +61,8 @@ Sistema simples e funcional desenvolvido em **PHP**, com interface moderna e res
 ### 🎮 [Jogo da Velha (tic-tac-toe)](https://joaomanueloliveira.github.io/jogoDaVelha)  
 Versão estilizada do clássico jogo da velha, feita com **HTML5, CSS3 (dark neon)** e **JavaScript**. Conta com placar de vitórias local, detecção automática de vitória/empate e layout responsivo.
 
-### 🔐 [Sistema de Login e Cadastro](https://github.com/JoaoManuelOliveira/Sistema-Login-Cadastro)  
-Sistema web desenvolvido em **Java (JSP + Servlets)**, com autenticação de usuários, cadastro, tratamento de sessões, e integração com banco de dados **MySQL**.
+### 🪚 [ML Marcenaria e Montagens](https://umbraapplications.github.io/ML-Marcenaria-e-Montagens/)
+Website institucional desenvolvido pela minha empresa para uma empresa de marcenaria (ML), com foco em apresentação de serviços, responsividade e experiência visual moderna. Projeto desenvolvido utilizando **HTML5, CSS3 e JavaScript**.
 
 ### 🚗 [Site para empresa Lileot Transporte](https://lileottransorte.github.io/Lileot)  
 Website institucional desenvolvido em **HTML5, CSS3 e JavaScript**, com design moderno e responsivo, apresentando informações sobre a empresa e seus serviços de transporte.
